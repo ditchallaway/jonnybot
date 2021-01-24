@@ -89,7 +89,7 @@ div[class*=container] {
 .btn {
   position: relative;
   color:rgba(39, 39, 39, 0.974);
-  background-color: rgba(155,255,0,.7);
+  background-color: #99ff00;
   border-radius: 10px;
   width: 256px;
   height: 64px;
