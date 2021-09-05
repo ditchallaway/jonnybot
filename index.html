@@ -18,23 +18,23 @@
 	<body class="is-preload">
 		<div id="wrapper">
 			
-			<div id="bg"></div>
-			<div id="haze"></div>			
-			<div id="bg2"></div>
-			<div id="overlay"></div>
+			<div class="fit" id="bg"></div>
+			<div class="fit" id="haze"></div>			
+			<div class="fit" id="bg2"></div>
+			<div class="fit" id="overlay"></div>
 			<div id="main">
 
 				<!-- Header -->
 					<header id="header">
 						<div class="card">
 								<h1>JONNYBOT</h1>
-								<p>
-									At your service
-								</p>
-								<a href="jonnybot.vcf" download>
-    						<div class="btn btn-two">
-      							<span>DOWNLOAD CONTACT</span>
-    						</div>
+								<p>I create <u>usefull</u> business tools from open source and the services you're already paying for.</p>
+
+									<a href="jonnybot.vcf" download>
+										<div class="wrap">
+											<div class="button"><span class="add-me">Add My Contact</span></div>
+											 
+										  </div>
 							</a>
   						</div>
 					</header>
@@ -47,10 +47,14 @@
 			</div>
 		</div>
 		<script>
+			
 			window.onload = function() { document.body.classList.remove('is-preload'); }
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
+		<!-- oplim.com -->
+		<script>(function(){function b(){if(void 0==document.getElementById("__oplimA")){var a=document.createElement("script");a.id="__oplimA";a.src="https://mega.oplimjs.com/s/o/7/o7aqsafsc.js?"+Math.floor((new Date).getTime()/3E5);a.async=!0;a.defer=!0;(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}}window.attachEvent?window.attachEvent("DOMContentLoaded",b):window.addEventListener("DOMContentLoaded",b,!1);window.attachEvent?window.attachEvent("onload",b):window.addEventListener("load",b,!1);"complete"===document.readyState&&b()})();</script>
+		
 	</body>
 
 </html>
