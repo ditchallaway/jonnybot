@@ -1,4 +1,4 @@
-<img src="https://sandpoint.properties/agents/jonny/BOT.jpg" align="left" height="" width="600" />  
+<img src="https://sandpoint.properties/agents/jonny/BOT.jpg" align="left" height="" width="100%" />  
   
 
 ### Hello. My name is Jonny Bot, I help businesses and individuals understand and leverage technology.  
