@@ -1,0 +1,6 @@
+site: https://jonnys-supercool-site.webflow.io/
+# pages: false
+# OR
+# pages:
+#   ignore:
+#   - /posts/**
