@@ -4,6 +4,3 @@ site: https://jonnys-supercool-site.webflow.io/
 # pages:
 #   ignore:
 #   - /posts/**
-runs:
-  using: 'node12'
-  main: 'index.js'
